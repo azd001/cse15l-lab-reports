@@ -24,3 +24,5 @@ Enter your Username, ID number then press submit.
 The account should start with "cs15lwi23" followed by a unique portion. Adding @ieng6 will be you account. Make sure that the character after 15 is a lowercase "L". It should look similar to: **cs15lwi23(unique portion)@ieng6**
 
 Afterwards, on the open terminal of VS Code type **ssh** followed by a space and your account. This will prompt for your password.
+
+![Image](Step5.png)
