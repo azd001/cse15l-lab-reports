@@ -34,3 +34,5 @@ When entering your password, it will not be displayed. However if you press ente
 # Running Commands
 
 Now that you are logged in, you can use commands. Some common commands are **ls -lat**, **ls**, **ls -a**.
+
+![Image](Step7.png)
