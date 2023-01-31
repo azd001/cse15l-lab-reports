@@ -11,3 +11,4 @@ After installing VS Code, open a terminal by clicking terminal from the options 
 
 ![Image](Step3.png)
 
+After opening a terminal we are able to remotely connect to our course-specific account on **iegn6**
