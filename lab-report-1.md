@@ -1,3 +1,4 @@
-You can install [VS Code](https://code.visualstudio.com/download) by clicking the link.
+# Installing VS Code
+You can install through the website by clicking the link: [VS Code](https://code.visualstudio.com/download).
 
-![Image](C:\Users\Alan\OneDrive\Desktop\CSE 15L\Lab Report 1\VS_Code_Download.png)
+![Image](VS_Code_Download.png)
