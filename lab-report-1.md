@@ -28,3 +28,9 @@ Afterwards, on the open terminal of VS Code type **ssh** followed by a space and
 ![Image](Step5.png)
 
 When entering your password, it will not be displayed. However if you press enter and your password is correct, then you will succesffuly connect. However, if your password is wrong you will be prompt to enter it again.
+
+![Image](Step6.png)
+
+# Running Commands
+
+Now that you are logged in, you can use commands. Some common commands are **ls -lat**, **ls**, **ls -a**.
