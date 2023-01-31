@@ -12,3 +12,7 @@ After installing VS Code, open a terminal by clicking terminal from the options 
 ![Image](Step3.png)
 
 After opening a terminal we are able to remotely connect to our course-specific account on **iegn6**
+
+# Remotely Connecting
+In order to connect remotely to our course-specific account, we need to know our account first.
+Click [here](https://sdacs.ucsd.edu/~icc/index.php) to search for your account.
