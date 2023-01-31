@@ -18,3 +18,7 @@ In order to connect remotely to our course-specific account, we need to know our
 Click [here](https://sdacs.ucsd.edu/~icc/index.php) to search for your account.
 
 Enter your Username, ID number then press submit.
+
+![Image](Step4.png)
+
+The account should start with "cs15l23" followed by a unique portion. Adding @ieng6 will be you account. Make sure that the character after 15 is a lowercase "L". It should look similar to: **cs15l23(unique portion)@ieng6**
